@@ -1,8 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\http\Controllers\EtudiantController;
-use App\http\Controllers\ProfilController;
+use App\Http\Controllers\EtudiantController;
+use App\Http\Controllers\ProfilController;
 
 
 
